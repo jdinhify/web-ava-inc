@@ -8,15 +8,17 @@ export default () => (
       <div className="content">
         <h2>Contact</h2>
 
-        <h3>Thien An Tutoring Centre</h3>
-        <h3>Principal - Marguirite Nguyen</h3>
-        <h3>Assistant Principal - Thi Phan</h3>
+        <h3>Fouding Director / President - Thuy Dang</h3>
+        <h3>Vice President 1 - Tina Nguyen</h3>
+        <h3>Vice President 2 - Giang Quach</h3>
         <h3>Secretary - Mai Nguyen</h3>
-        <h3>Parents & Friends - Cuong Tran</h3>
-        <h3>Address - 51 Mitchell St, Brunswick</h3>
-        <h3>Tel:  9386 6522</h3>
+        <h3>Treasurer - Le Vo</h3>
         <h3>Mobile:  0438 933 923</h3>
-        <h3>Email:  thienantutoringcentre@gmail.com</h3>
+        <h3>Tel:  9386 6522</h3>
+        <h3>
+          Email:
+          <a href="mailto:ava.melb@gmail.com"> ava.melb@gmail.com</a>
+        </h3>
       </div>
     </div>
 
@@ -29,7 +31,7 @@ export default () => (
         align-items: center;
         justify-content: center;
         position: relative;
-        background-color: ${colors.yellowLight};
+        background-color: ${colors.pinkLight};
       }
 
       .contentContainer {
@@ -45,11 +47,11 @@ export default () => (
 
       h2 {
         font-size: 3rem;
-        color: ${colors.blue};
+        color: ${colors.purple};
       }
 
       h3 {
-        color: ${colors.blue};
+        color: ${colors.purple};
         font-weight: 400;
       }
     `}</style>

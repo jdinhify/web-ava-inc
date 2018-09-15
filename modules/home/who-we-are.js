@@ -6,13 +6,12 @@ export default () => (
   <div className="container">
     <div className="content">
       <h2>Who we are</h2>
-      <h3 className="bold">Founded in 2007</h3>
-      <h3>
-        Thien An Tutoring Centre is an ethnic school teaching English and Maths for Vietnamese students,
-        especially the ones who migrates to Australia and need support to settle down to daily schools.
-      </h3>
-      <h3>Tutors are all volunteers and who are uni students, teachers, ex teachers</h3>
-      <h3>Staff are all volunteers and who are parents, community members</h3>
+      <h3 className="bold">Established in 2010</h3>
+      <h3>The group is made up of Vietnamese musicians, poem writers, song writers, dancers.  It is a colourful and exciting group. The members are dedicated and enjoy belonging to a group and performing at a variety of functions and Festivals e.g. Multicultural Festivals, Community Functions, Nursing Homes, Educational and Charity Fundraising events, around Victoria and interstate.</h3>
+      <h3>Through music and dance, it embarks on a mission to support Multiculturalism and harmony in society. It also aims to maintain and promote the beauty and distinctive aspects of Vietnamese culture. Members are all volunteers</h3>
+      <h3>Our organisation is approved to host job seekers who are undertaking voluntary work as an approved activity.</h3>
+      <h3><strong>If you love Vietnamese music and dance and eager to volunteer you can join our group.</strong></h3>
+
     </div>
 
     {/* eslint-disable react/jsx-one-expression-per-line, react/jsx-closing-tag-location */}
@@ -24,7 +23,7 @@ export default () => (
         align-items: center;
         justify-content: center;
         margin: 0 auto;
-        background-color: ${colors.blue};
+        background-color: ${colors.purple};
       }
 
       .content {
@@ -35,7 +34,7 @@ export default () => (
 
       h2 {
         font-size: 3rem;
-        color: ${colors.yellow};
+        color: ${colors.pinkLight};
       }
 
       h3 {

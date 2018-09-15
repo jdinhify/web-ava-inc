@@ -5,8 +5,8 @@ import colors from '../../config/colors'
 export default () => (
   <div className="container">
     <div className="content">
-      <h1>Thien An Tutoring Centre</h1>
-      <h2>An ethnic school teaching English and Maths for Vietnamese students</h2>
+      <h1>Australian Vietnamese Arts</h1>
+      <h2>The group is made up of Vietnamese musicians, poem writers, song writers, dancers</h2>
     </div>
 
     {/* eslint-disable react/jsx-one-expression-per-line, react/jsx-closing-tag-location */}
@@ -22,9 +22,9 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(/static/math.jpeg);
+        background: url(/static/art.jpeg);
         background-size: cover;
-        opacity: 0.1;
+        opacity: 0.2;
         top: 0;
         left: 0;
         bottom: 0;
@@ -38,14 +38,15 @@ export default () => (
       }
 
       h1 {
-        color: ${colors.blue};
-        border-bottom: 4px solid ${colors.yellow};
+        color: ${colors.pink};
+        border-bottom: 4px solid ${colors.pinkLight};
         display: inline-block;
         font-size: 4rem;
+        margin-bottom: 0;
       }
 
       h2 {
-        color: ${colors.blue};
+        color: ${colors.pink};
         font-weight: 400;
         font-style: italic;
       }

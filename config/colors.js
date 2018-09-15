@@ -1,8 +1,6 @@
 export default {
   white: '#fff',
-  blue: '#233a77',
-  blueLight: '#919cbb',
-  yellow: '#ffce00',
-  yellowLight: '#fff899',
-  cream: '#fffdea',
+  purple: '#500787',
+  pinkLight: '#f8bbd0',
+  pink: '#da3d75',
 }
