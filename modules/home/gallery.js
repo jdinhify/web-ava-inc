@@ -3,62 +3,62 @@ import Gallery from 'react-photo-gallery'
 
 const photos = [
   {
-    src: '/static/ava1.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava1.jpg',
     width: 1836,
     height: 1800,
   },
   {
-    src: '/static/ava2.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava2.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava3.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava3.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava4.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava4.jpg',
     width: 960,
     height: 714,
   },
   {
-    src: '/static/ava5.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava5.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava6.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava6.jpg',
     width: 718,
     height: 960,
   },
   {
-    src: '/static/ava7.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava7.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava8.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava8.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava9.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava9.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava10.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava10.jpg',
     width: 1024,
     height: 683,
   },
   {
-    src: '/static/ava11.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava11.jpg',
     width: 960,
     height: 720,
   },
   {
-    src: '/static/ava12.jpg',
+    src: '//files.jdinh.life/ava-inc-org-au/ava12.jpg',
     width: 1024,
     height: 751,
   },

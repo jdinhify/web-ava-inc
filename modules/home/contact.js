@@ -16,8 +16,8 @@ export default () => (
         <h3>Mobile:  0438 933 923</h3>
         <h3>Tel:  9386 6522</h3>
         <h3>
-          Email:
-          <a href="mailto:ava.melb@gmail.com"> ava.melb@gmail.com</a>
+          {'Email: '}
+          <a href="mailto:ava.melb@gmail.com">ava.melb@gmail.com</a>
         </h3>
       </div>
     </div>
