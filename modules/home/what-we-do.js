@@ -7,12 +7,11 @@ export default () => (
     <div className="contentContainer">
       <div className="content">
         <h2>What we do</h2>
-
-        <h3>We teach English and Maths</h3>
-        <h3>Classes are held during school terms on Saturdays, from 2pm to 4pm.</h3>
-        <h3>Classes are from year 1 level to year 10</h3>
-        <br />
-        <h3>No fees is charged, only $100 a year per student for learning materials </h3>
+        <h3>Run festivals of Vietnamese Traditional Music </h3>
+        <h3>Perform at nursing homes</h3>
+        <h3>Perform at Vietamese New Year festivals</h3>
+        <h3>Perform at Annual Mid Autumn Fesitvals</h3>
+        <h3>Join Moomba Festivals</h3>
       </div>
     </div>
 
@@ -29,7 +28,7 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(/static/book.jpeg);
+        background: url(/static/flowers.jpeg);
         background-size: cover;
         opacity: 0.1;
         top: 0;
@@ -53,12 +52,12 @@ export default () => (
 
       h2 {
         font-size: 3rem;
-        color: ${colors.blue};
+        color: ${colors.purple};
       }
 
       h3 {
         font-weight: 400;
-        color: ${colors.blue};
+        color: ${colors.purple};
       }
     `}</style>
     {/* eslint-enable */}
