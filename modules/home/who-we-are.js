@@ -17,7 +17,7 @@ export default () => (
     {/* eslint-disable react/jsx-one-expression-per-line, react/jsx-closing-tag-location */}
     <style jsx>{`
       .container {
-        height: 100vh;
+        min-height: 100vh;
         width: 100%;
         display: flex;
         align-items: center;
