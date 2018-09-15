@@ -13,8 +13,8 @@ export default () => (
         <h3>Vice President 2 - Giang Quach</h3>
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Treasurer - Le Vo</h3>
-        <h3>Mobile:  0438 933 923</h3>
-        <h3>Tel:  9386 6522</h3>
+        <h3>Mobile: 0438 933 923</h3>
+        <h3>Tel: 9386 6522</h3>
         <h3>
           {'Email: '}
           <a href="mailto:ava.melb@gmail.com">ava.melb@gmail.com</a>
