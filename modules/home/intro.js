@@ -41,7 +41,7 @@ export default () => (
         color: ${colors.pink};
         border-bottom: 4px solid ${colors.pinkLight};
         display: inline-block;
-        font-size: 4rem;
+        font-size: 3rem;
         margin-bottom: 0;
       }
 
