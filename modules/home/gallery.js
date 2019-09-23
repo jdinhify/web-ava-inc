@@ -2,40 +2,40 @@ import React from 'react'
 
 const photos = [
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava1.jpg',
+    src: '/static/ava1.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava2.jpg',
+    src: '/static/ava2.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava6.jpg',
+    src: '/static/ava6.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava4.jpg',
+    src: '/static/ava4.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava11.jpg',
+    src: '/static/ava11.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava3.jpg',
+    src: '/static/ava3.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava7.jpg',
+    src: '/static/ava7.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava8.jpg',
+    src: '/static/ava8.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava9.jpg',
+    src: '/static/ava9.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava10.jpg',
+    src: '/static/ava10.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava5.jpg',
+    src: '/static/ava5.jpg',
   },
   {
-    src: '//files.jdinh.life/ava-inc-org-au/ava12.jpg',
+    src: '/static/ava12.jpg',
   },
 ]
 

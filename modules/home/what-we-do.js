@@ -28,7 +28,7 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(//files.jdinh.life/ava-inc-org-au/flowers.jpeg);
+        background: url(/static/flowers.jpeg);
         background-size: cover;
         opacity: 0.1;
         top: 0;

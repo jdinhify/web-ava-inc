@@ -22,7 +22,7 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(//files.jdinh.life/ava-inc-org-au/art.jpeg);
+        background: url(/static/art.jpeg);
         background-size: cover;
         opacity: 0.2;
         top: 0;
