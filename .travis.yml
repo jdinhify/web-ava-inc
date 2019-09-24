@@ -7,10 +7,7 @@ cache:
   directories:
     - node_modules
 
-script:
-  - npm run export
-
 deploy:
   - provider: script
-    script: cp now.json ./out/ && cd ./out && npx now --public -t $NOW_T && npx now -t $NOW_T alias
+    script: npx now -t $NOW_T --prod
     skip_cleanup: true
