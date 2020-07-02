@@ -21,7 +21,7 @@ export const HomeIntro = () => (
 
       .container::after {
         content: "";
-        background: url(/images/art.jpeg);
+        background: url(/images/AVA-2020.jpg);
         background-size: cover;
         opacity: 0.2;
         top: 0;
