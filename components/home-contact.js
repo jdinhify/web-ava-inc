@@ -7,8 +7,8 @@ export const HomeContact = () => (
       <div className="content">
         <h2>Contact</h2>
 
-        <h3>Fouding Director / President - Thuy Dang</h3>
-        <h3>Vice President 1 - Tina Nguyen</h3>
+        <h3>Founding Director / President - Thuy Dang</h3>
+        <h3>Vice President 1 - Hugh Nguyen</h3>
         <h3>Vice President 2 - Giang Quach</h3>
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Treasurer - Le Vo</h3>
