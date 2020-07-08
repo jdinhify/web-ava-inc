@@ -8,8 +8,8 @@ export const HomeContact = () => (
         <h2>Contact</h2>
 
         <h3>Founding Director / President - Thuy Dang</h3>
-        <h3>Vice President 1 - Hugh Nguyen</h3>
-        <h3>Vice President 2 - Giang Quach</h3>
+        <h3>Vice President 1 - Quach Giang</h3>
+        <h3>Vice President 2 - Hugh Nguyen</h3>
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Treasurer - Le Vo</h3>
         <h3>Mobile: 0438 933 923</h3>
