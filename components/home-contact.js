@@ -9,11 +9,11 @@ export const HomeContact = () => (
 
         <h3>Founding Director / President - Thuy Dang</h3>
         <h3>Vice President 1 - Quach Giang</h3>
-        <h3>Vice President 2 - Hugh Nguyen</h3>
+        <h3>Vice President 2 - Hung Nguyen</h3>
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Treasurer - Le Vo</h3>
-        <h3>Mobile: 0438 933 923</h3>
-        <h3>Tel: 9386 6522</h3>
+        <h3>Development Officer: John Thuy</h3>
+        <h3>Tel: 0438 933 923 / 9386 6522</h3>
         <h3>
           {'Email: '}
           <a href="mailto:ava.melb@gmail.com">ava.melb@gmail.com</a>
